@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\otis\\Documents\\mal_exclude\\maldev_program\\DLL injection\\injector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC10CE96-1DD4-41DC-8192-951BBF351F8F}|injector.vcxproj|C:\\Users\\otis\\Documents\\mal_exclude\\maldev_program\\DLL injection\\injector\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC10CE96-1DD4-41DC-8192-951BBF351F8F}|injector.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\otis\\Documents\\mal_exclude\\maldev_program\\DLL injection\\injector\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\otis\\Documents\\mal_exclude\\maldev_program\\DLL injection\\injector\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAACYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-18T13:09:35.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
